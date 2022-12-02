@@ -22,13 +22,19 @@ Generate scatter plot is generated that shows the average tumor volume vs. mouse
 Methods and Software:
 The analyses were performed using the Resources dataset. and correlation checked by Linear Reression method.
 
+#### Methods, Software and Attribution
+
 - Following programming languages, software, and libraries were used in this project:
 
-<img src="https://github.com/theidari/python-api-challenge/blob/main/yellowcube.png" width="10"> `python v.3.9.13`</br>
-`jupyter notebook v.6.4.12`
+<img src="https://github.com/theidari/python-api-challenge/blob/main/redcube.png" width="10"> `python v.3.9.13`</br>
+<img src="https://github.com/theidari/python-api-challenge/blob/main/bluecube.png" width="10"> `jupyter notebook v.6.4.12`
 `Visual Studio v.1.73.1`
 `PowerPoint v.16.0.14026.20298`</br>
-`pandas v.1.4.4`
+<img src="https://github.com/theidari/python-api-challenge/blob/main/yellowcube.png" width="10"> `pandas v.1.4.4`
 `SciPy v.1.9.3`
 `Matplotlib v.3.6.0`
 `NumPy v.1.23.4`</br>
+
+- <a href="https://www.freepik.com/free-vector/green-grass-pattern-set_9175193.htm#query=grass&position=6&from_view=keyword">Image by pch.vector</a> on Freepik
+
+
