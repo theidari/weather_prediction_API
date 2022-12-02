@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/theidari/python-api-challenge/blob/main/ocean%20gif.gif" width="800">
+<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/ocean%20gif.gif" width="800">
 </p>
 
 <h3 align=left> Overview of Project </h3>
@@ -9,7 +9,7 @@
 #### Objective
 
    - Create a series of scatter plots to showcase the relationships between `Latitude` and:</br> 
-<img src="https://github.com/theidari/python-api-challenge/blob/main/1.png" width="30"> `Temperature` <img src="https://github.com/theidari/python-api-challenge/blob/main/2.png" width="30"> `Humidity` <img src="https://github.com/theidari/python-api-challenge/blob/main/3.png" width="30"> `Cloudiness` <img src="https://github.com/theidari/python-api-challenge/blob/main/4.png" width="30"> `Wind Speed`
+<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/1.png" width="30"> `Temperature` <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/2.png" width="30"> `Humidity` <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/3.png" width="30"> `Cloudiness` <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/4.png" width="30"> `Wind Speed`
 
 #### Methods, Software and Attribution
 
@@ -17,11 +17,11 @@
 
 - Following programming languages, software, and libraries were used in this project:
 
-<img src="https://github.com/theidari/python-api-challenge/blob/main/redcube.png" width="10"> `python v.3.9.13`</br>
-<img src="https://github.com/theidari/python-api-challenge/blob/main/bluecube.png" width="10"> `jupyter notebook v.6.4.12`
+<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/redcube.png" width="10"> `python v.3.9.13`</br>
+<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/bluecube.png" width="10"> `jupyter notebook v.6.4.12`
 `Visual Studio v.1.73.1`
 `PowerPoint v.16.0.14026.20298`</br>
-<img src="https://github.com/theidari/python-api-challenge/blob/main/yellowcube.png" width="10"> `pandas v.1.4.4`
+<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/yellowcube.png" width="10"> `pandas v.1.4.4`
 `SciPy v.1.9.3`
 `Matplotlib v.3.6.0`
 `citipy v.0.0.5`
