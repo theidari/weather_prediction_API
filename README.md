@@ -24,6 +24,10 @@ The analyses were performed using the Resources dataset. and correlation checked
 
 - Following programming languages, software, and libraries were used in this project:
 
+<img src="https://github.com/theidari/python-api-challenge/blob/main/blue.png" width="7">
+
+
+
 `python v.3.9.13`</br>
 `jupyter notebook v.6.4.12`
 `Visual Studio v.1.73.1`
