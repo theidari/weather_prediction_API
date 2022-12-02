@@ -22,13 +22,13 @@ Generate scatter plot is generated that shows the average tumor volume vs. mouse
 Methods and Software:
 The analyses were performed using the Resources dataset. and correlation checked by Linear Reression method.
 
-Following programming languages, software, and libraries were used in this project:
+- Following programming languages, software, and libraries were used in this project:
 
-python v.3.9.13
-jupyter notebook v.6.4.12
-Visual Studio v.1.73.1
-PowerPoint v.16.0. 14026.20298.
-pandas v.1.4.4
-SciPy v.1.9.3
-Matplotlib v.3.6.0
-NumPy v.1.23.4
+`python v.3.9.13`</br>
+`jupyter notebook v.6.4.12`
+`Visual Studio v.1.73.1`
+`PowerPoint v.16.0.14026.20298`</br>
+`pandas v.1.4.4`
+`SciPy v.1.9.3`
+`Matplotlib v.3.6.0`
+`NumPy v.1.23.4`</br>
