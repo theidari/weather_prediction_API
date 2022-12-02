@@ -9,11 +9,7 @@ This activity is broken down into two deliverables, WeatherPy and VacationPy.
 #### Objective
 
    - Create a series of scatter plots to showcase the relationships between `Latitude` and:</br> 
-<img src="https://github.com/theidari/python-api-challenge/blob/main/1.png" width="30"> `Temperature` <img src="https://github.com/theidari/python-api-challenge/blob/main/2.png" width="30"> `Humidity`
-
-Latitude vs. Cloudiness
-
-Latitude vs. Wind Speed:
+<img src="https://github.com/theidari/python-api-challenge/blob/main/1.png" width="30"> `Temperature` <img src="https://github.com/theidari/python-api-challenge/blob/main/2.png" width="30"> `Humidity` <img src="https://github.com/theidari/python-api-challenge/blob/main/3.png" width="30"> `Cloudiness` <img src="https://github.com/theidari/python-api-challenge/blob/main/4.png" width="30"> `Wind Speed`
 
 #### Methods, Software and Attribution
 
