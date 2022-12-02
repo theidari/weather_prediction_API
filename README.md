@@ -2,9 +2,9 @@
 <img src="https://github.com/theidari/python-api-challenge/blob/main/ocean%20gif.gif" width="800">
 </p>
 
-<h3 align=center> Overview of Project </h3>
+<h3 align=left> Overview of Project </h3>
 
-This activity is broken down into two deliverables, WeatherPy and VacationPy.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This activity is broken down into two deliverables, WeatherPy and VacationPy.
 
 #### Objective
 
