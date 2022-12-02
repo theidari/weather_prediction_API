@@ -8,7 +8,8 @@ This activity is broken down into two deliverables, WeatherPy and VacationPy.
 
 #### Objective
 
-create a series of scatter plots to showcase the relationships between Latitude and <img src="https://github.com/theidari/python-api-challenge/blob/main/1.png" width="30"> Temperature <img src="https://github.com/theidari/python-api-challenge/blob/main/2.png" width="30"> Humidity
+   - Create a series of scatter plots to showcase the relationships between `Latitude` and:</br> 
+<img src="https://github.com/theidari/python-api-challenge/blob/main/1.png" width="30"> `Temperature` <img src="https://github.com/theidari/python-api-challenge/blob/main/2.png" width="30"> `Humidity`
 
 Latitude vs. Cloudiness
 
