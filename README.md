@@ -2,6 +2,19 @@
 <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/ocean%20gif.gif" width="800">
 </p>
 
+<table>
+   <tr>
+      <td>Overview of Project</td>
+      <td>
+      <details open><summary>CODE</summary>
+      <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/VacationPy.png" width="120">
+      <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/VacationPy.png" width="120">
+      </details>
+      </td>
+   </tr>   
+</table>
+
+
 
 <h3 align=left> Overview of Project </h3>
 
