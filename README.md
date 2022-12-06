@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/blue.png" width="12"> Overview of Project <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/blue.png" width="12"> How to Use <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/blue.png" width="12"> Results <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/blue.png" width="12"></sup> Trilogy Education Services, a <a href="https://2u.com/"> References </a><img src="https://github.com/theidari/python-api-challenge/blob/main/Design/blue.png" width="12">
+<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/blue.png" width="12"><a href="https://github.com/theidari/python-api-challenge/blob/main/README.md#-overview-of-project-"> Overview of Project </a><img src="https://github.com/theidari/python-api-challenge/blob/main/Design/blue.png" width="12"><a href="https://github.com/theidari/python-api-challenge/blob/main/README.md#how-to-use"> How to Use </a><img src="https://github.com/theidari/python-api-challenge/blob/main/Design/blue.png" width="12"><a href="https://github.com/theidari/python-api-challenge/blob/main/README.md#results"> Results </a><img src="https://github.com/theidari/python-api-challenge/blob/main/Design/blue.png" width="12"><a href="https://github.com/theidari/python-api-challenge/blob/main/README.md#references"> References </a><img src="https://github.com/theidari/python-api-challenge/blob/main/Design/blue.png" width="12">
 </p>
 
 ---
