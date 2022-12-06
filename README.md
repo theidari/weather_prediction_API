@@ -47,6 +47,48 @@
 </tr>
 </table>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Figures[2] to Figures[5]</b> are shown realation of latitute for 553 cities and their maximum temprature, humidity, cloudiness, and wind speed with linear regression in `Northern Hemisphere` and `Southern Hemisphere`.
+
+<h6 align="center">Fig [2]: latitute vs. maximum temprature</h6>
+<table>
+<tr>
+<td><img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Max%20Temp%20LR%20Northern%20Hemisphere.png" width="400"></td>
+<td><img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Max%20Temp%20LR%20Southern%20Hemisphere.png" width="400"></td>
+</tr>
+</table>
+The above figure is shown a <ins>strong correlation</ins> with r2=0.84 for Northern Hemisphere and a <ins>moderate correlation</ins> with r2=0.57 for Southern Hemisphere. this means by changing place from the equator the temperature is decreasing.
+
+<h6 align="center">Fig [3]: latitute vs. humidity</h6>
+<table>
+<tr>
+<td><img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Humidity%20LR%20Northern%20Hemisphere.png" width="400"></td>
+<td><img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Humidity%20LR%20Southern%20Hemisphere.png" width="400"></td>
+</tr>
+</table>
+The figure[3] is shown a <ins>week</ins> for both Northern Hemisphere and Southern Hemisphere. it can not siggnificatly approve that  
+
+<h6 align="center">Fig [4]: latitute vs. cloudiness</h6>
+<table>
+<tr>
+<td><img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Cloudiness%20LR%20Northern%20Hemisphere.png" width="400"></td>
+<td><img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Cloudiness%20LR%20Southern%20Hemisphere.png" width="400"></td>
+</tr>
+</table>
+The figure[4] is shown a <ins>week</ins> for both Northern Hemisphere and Southern Hemisphere. it can not siggnificatly approve that  
+
+<h6 align="center">Fig [5]: latitute vs. wind speed</h6>
+<table>
+<tr>
+<td><img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Wind%20Speed%20LR%20Northern%20Hemisphere.png" width="400"></td>
+<td><img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Wind%20Speed%20LR%20Southern%20Hemisphere.png" width="400"></td>
+</tr>
+</table>
+The figure[5] is shown a <ins>week</ins> for both Northern Hemisphere and Southern Hemisphere. it can not siggnificatly approve that  
+
+
+<img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Cities%20Location.png" width="800">
+
+https://github.com/theidari/python-api-challenge/blob/main/OutputData/Hotel%20Location.png
 
 
 
