@@ -2,10 +2,13 @@
 <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/ocean%20gif.gif" width="800">
 </p>
 
-<p align="right">
+---
+
+<p align="center">
 <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/blue.png" width="12"> Overview of Project <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/blue.png" width="12"> How to Use <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/blue.png" width="12"> Results <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/blue.png" width="12"> Documents & References <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/blue.png" width="12">
 </p>
 
+---
 
 
 <h3 align=left> Overview of Project </h3>
