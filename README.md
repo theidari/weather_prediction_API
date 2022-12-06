@@ -31,7 +31,9 @@
 
 - The project header GIF has been designed by powerpoint and `photopea.com` using assets from `Freepik.com` (include: <a href="https://www.freepik.com/free-vector/green-grass-pattern-set_9175193.htm#query=grass&position=6&from_view=keyword">grass</a>, <a href="https://www.freepik.com/free-vector/young-man-woman-couple-tourists-with-poles-backpacks-travelling-climbing-trekking-hiking-walking-camping-adventures-nature_27399687.htm#query=man%20and%20woman%20tourist&position=21&from_view=search&track=sph">tourists</a> and <a href="https://www.freepik.com/free-vector/set-plant-tree-with-its-silhouette_9306595.htm#query=tree&position=4&from_view=search&track=sph">tree</a>).
 
-<h3 align=left> Results </h3>
+<h3 align=left>How to Use</h3>
+
+<h3 align=left>Example Results</h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Corrolation Between latitute of 553 cities and their maximum temprature, humidity, cloudiness, and wind speed are shown in the following figures.
 
@@ -47,7 +49,7 @@
 </tr>
 </table>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Figures[2] to Figures[5]</b> are shown realation of latitute for 553 cities and their maximum temprature, humidity, cloudiness, and wind speed with linear regression in `Northern Hemisphere` and `Southern Hemisphere`.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Figures [2]</b> to <b>Figures [5]</b> illustrate the relation of latitude for <ins>553 cities</ins> and their maximum temperature, humidity, cloudiness, and wind speed with linear regression in the `Northern Hemisphere` and `Southern Hemisphere`.
 
 <h6 align="center">Fig [2]: latitute vs. maximum temprature</h6>
 <table>
@@ -56,7 +58,8 @@
 <td><img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Max%20Temp%20LR%20Southern%20Hemisphere.png" width="400"></td>
 </tr>
 </table>
-The above figure is shown a <ins>strong correlation</ins> with r2=0.84 for Northern Hemisphere and a <ins>moderate correlation</ins> with r2=0.57 for Southern Hemisphere. this means by changing place from the equator the temperature is decreasing.
+
+The above figure shows a  <ins>strong correlation</ins> with r<sup>2</sup>=0.84 for Northern Hemisphere and a <ins>moderate correlation</ins> with r<sup>2</sup>=0.57 for Southern Hemisphere. this means by moving away from the equator the temperature decreases.
 
 <h6 align="center">Fig [3]: latitute vs. humidity</h6>
 <table>
@@ -65,7 +68,6 @@ The above figure is shown a <ins>strong correlation</ins> with r2=0.84 for North
 <td><img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Humidity%20LR%20Southern%20Hemisphere.png" width="400"></td>
 </tr>
 </table>
-The figure[3] is shown a <ins>week</ins> for both Northern Hemisphere and Southern Hemisphere. it can not siggnificatly approve that  
 
 <h6 align="center">Fig [4]: latitute vs. cloudiness</h6>
 <table>
@@ -74,7 +76,6 @@ The figure[3] is shown a <ins>week</ins> for both Northern Hemisphere and Southe
 <td><img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Cloudiness%20LR%20Southern%20Hemisphere.png" width="400"></td>
 </tr>
 </table>
-The figure[4] is shown a <ins>week</ins> for both Northern Hemisphere and Southern Hemisphere. it can not siggnificatly approve that  
 
 <h6 align="center">Fig [5]: latitute vs. wind speed</h6>
 <table>
@@ -83,9 +84,10 @@ The figure[4] is shown a <ins>week</ins> for both Northern Hemisphere and Southe
 <td><img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Wind%20Speed%20LR%20Southern%20Hemisphere.png" width="400"></td>
 </tr>
 </table>
-The figure[5] is shown a <ins>week</ins> for both Northern Hemisphere and Southern Hemisphere. it can not siggnificatly approve that  
 
+Figure [3] to Figure [5] visualize a <ins>weak</ins> correlation between `humidity`, `cloudiness`, and `wind speed` with latitude for both Northern Hemisphere and Southern Hemisphere. Therefore, we cannot hypothesize that by increasing latitude these properties vary too significantly.
 
+ - VacationPy
 <img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Cities%20Location.png" width="800">
 
 <img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Hotel%20Location.png" width="800">
