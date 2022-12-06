@@ -88,7 +88,11 @@ The figure[5] is shown a <ins>week</ins> for both Northern Hemisphere and Southe
 
 <img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Cities%20Location.png" width="800">
 
-https://github.com/theidari/python-api-challenge/blob/main/OutputData/Hotel%20Location.png
+<img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Hotel%20Location.png" width="800">
+<img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Clean%20Hotel%20Location.png" width="800">
+
+
+
 
 
 
