@@ -76,7 +76,7 @@ geoapify_key = "YOUR KEY HERE"
 
 <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/WeatherPy.png" width="120">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Corrolation Between latitute of 553 cities and their maximum temprature, humidity, cloudiness, and wind speed are shown in the following figures.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Corrolation Between latitute of <ins>553 cities</ins> and their maximum temprature, humidity, cloudiness, and wind speed are shown in the following figures.
 
 <h6 align="center">Fig [1]: Corrolation Between latitute and maximum temprature, humidity, cloudiness, and wind speed.</h6>
 <table>
