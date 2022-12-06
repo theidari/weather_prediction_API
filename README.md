@@ -52,7 +52,20 @@
 
 - The project header GIF has been designed by powerpoint and `photopea.com` using assets from `Freepik.com` (include: <a href="https://www.freepik.com/free-vector/green-grass-pattern-set_9175193.htm#query=grass&position=6&from_view=keyword">grass</a>, <a href="https://www.freepik.com/free-vector/young-man-woman-couple-tourists-with-poles-backpacks-travelling-climbing-trekking-hiking-walking-camping-adventures-nature_27399687.htm#query=man%20and%20woman%20tourist&position=21&from_view=search&track=sph">tourists</a> and <a href="https://www.freepik.com/free-vector/set-plant-tree-with-its-silhouette_9306595.htm#query=tree&position=4&from_view=search&track=sph">tree</a>).
 
+---
+
 <h3 align=left>How to Use</h3>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before running <a href="https://github.com/theidari/python-api-challenge/blob/main/WeatherPy/WeatherPy.ipynb">WeatherPy</a> and <a href="https://github.com/theidari/python-api-challenge/blob/main/VacationPy/VacationPy.ipynb">VacationPy</a>, you will need API keys. Create an <b>api_keys.py</b> file in the same directory containing:
+
+```python
+# OpenWeatherMap API Key
+weather_api_key = "YOUR KEY HERE"
+
+# Geoapify API Key
+geoapify_key = "YOUR KEY HERE"
+```
+
+---
 
 <h3 align=left>Results</h3>
 
