@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/blue.png" width="12"> Overview of Project <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/blue.png" width="12"> How to Use <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/blue.png" width="12"> Results <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/blue.png" width="12"> Documents & References <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/blue.png" width="12">
+<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/blue.png" width="12"> Overview of Project <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/blue.png" width="12"> How to Use <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/blue.png" width="12"> Results <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/blue.png" width="12"></sup> Trilogy Education Services, a <a href="https://2u.com/"> References </a><img src="https://github.com/theidari/python-api-challenge/blob/main/Design/blue.png" width="12">
 </p>
 
 ---
@@ -64,6 +64,11 @@ weather_api_key = "YOUR KEY HERE"
 # Geoapify API Key
 geoapify_key = "YOUR KEY HERE"
 ```
+
+
+<p align="right">
+<a href="https://github.com/theidari/pymaceuticals#overview-of-project-"><sup>TOP PAGE</sup></a>
+</P>
 
 ---
 
@@ -124,6 +129,10 @@ The above figure shows a  <ins>strong correlation</ins> with r<sup>2</sup>=0.84 
 Figure [3] to Figure [5] visualize a <ins>weak</ins> correlation between `humidity`, `cloudiness`, and `wind speed` with latitude for both Northern Hemisphere and Southern Hemisphere. Therefore, we cannot hypothesize that by increasing latitude these properties vary too significantly.
 
 
+
+<p align="right">
+<a href="https://github.com/theidari/pymaceuticals#overview-of-project-"><sup>TOP PAGE</sup></a>
+</P>
  
  <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/VacationPy.png" width="120">
 
@@ -137,8 +146,13 @@ Figure [3] to Figure [5] visualize a <ins>weak</ins> correlation between `humidi
 <img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Clean%20Hotel%20Location.png" width="800">
 
 ---
-<h3 align=left>ocuments & References</h3>
+<h3 align=left>References</h3>
+<sup>[1]</sup> Trilogy Education Services, a <a href="https://2u.com/">2U, Inc.</a> brand.
 
+
+<p align="right">
+<a href="https://github.com/theidari/pymaceuticals#overview-of-project-"><sup>TOP PAGE</sup></a>
+</P>
 
 
 
