@@ -17,9 +17,19 @@
 
 
 #### Objective
-
+- <i>WeatherPy:</i>
+   - Use the [OpenWeatherMap API](https://openweathermap.org/) to retrieve weather data from the cities list generated with citipy Python library.
    - Create a series of scatter plots to showcase the relationships between `Latitude` and:</br> 
 <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/1.png" width="30"> `Temperature` <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/2.png" width="30"> `Humidity` <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/3.png" width="30"> `Cloudiness` <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/4.png" width="30"> `Wind Speed`
+   - Linear regression scatter plot for <ins>Northern Hemisphere</ins> and <ins>Southern Hemisphere</ins> to showcase above relationships.
+   
+- <i>VacationPy:</i>
+   - Create a map that displays a point for every city in the <i>WeatherPy</i> section DataFrame.
+   - Narrow down the DataFrame to find your ideal weather condition and make hotel DataFrame.
+      - ideal weather condition: <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/1.png" width="30"> `21°C < temperature < 27°C` <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/2.png" width="30"> `Wind speed less than 4.5 m/s` <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/3.png" width="30"> `Zero cloudiness`
+   - Use the [Geoapify API](https://www.geoapify.com/) to find the first hotel located within 10,000 metres of every city coordinates
+   - Add the hotel name and the country as additional information for each city in the map.
+   
 
 #### Methods, Software and Attribution
 
