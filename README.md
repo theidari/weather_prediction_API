@@ -33,7 +33,9 @@
 
 <h3 align=left>How to Use</h3>
 
-<h3 align=left>Example Results</h3>
+<h3 align=left>Results</h3>
+
+<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/WeatherPy.png" width="120">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Corrolation Between latitute of 553 cities and their maximum temprature, humidity, cloudiness, and wind speed are shown in the following figures.
 
@@ -90,6 +92,9 @@ Figure [3] to Figure [5] visualize a <ins>weak</ins> correlation between `humidi
 
  
  <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/VacationPy.png" width="120">
+
+
+
 
  
 <img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Cities%20Location.png" width="800">
