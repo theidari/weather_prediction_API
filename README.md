@@ -33,5 +33,24 @@
 
 <h3 align=left> Results </h3>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Corrolation Between latitute of 553 cities and their maximum temprature, humidity, cloudiness, and wind speed are shown in the following figures.
+
+<h6 align="center">Fig [1]: Corrolation Between latitute and maximum temprature, humidity, cloudiness, and wind speed.</h6>
+<table>
+<tr>
+<td><img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Max%20Temp.png" width="400"></td>
+<td><img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Humidity.png" width="400"></td>
+</tr>
+<tr>
+<td><img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Cloudiness.png" width="400"></td>
+<td><img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Wind%20Speed.png" width="400"></td>
+</tr>
+</table>
+
+
+
+
+
+
 
 
