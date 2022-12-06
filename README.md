@@ -89,7 +89,7 @@ Figure [3] to Figure [5] visualize a <ins>weak</ins> correlation between `humidi
 
 
  
- <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/VacationPy.png" width="150">
+ <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/VacationPy.png" width="120">
 
  
 <img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Cities%20Location.png" width="800">
