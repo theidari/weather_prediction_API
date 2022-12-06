@@ -87,7 +87,11 @@ The above figure shows a  <ins>strong correlation</ins> with r<sup>2</sup>=0.84 
 
 Figure [3] to Figure [5] visualize a <ins>weak</ins> correlation between `humidity`, `cloudiness`, and `wind speed` with latitude for both Northern Hemisphere and Southern Hemisphere. Therefore, we cannot hypothesize that by increasing latitude these properties vary too significantly.
 
- - VacationPy
+
+ 
+ <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/VacationPy.png" width="150">
+
+ 
 <img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Cities%20Location.png" width="800">
 
 <img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Hotel%20Location.png" width="800">
