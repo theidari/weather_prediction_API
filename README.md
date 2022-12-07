@@ -143,13 +143,25 @@ Figure [3] to Figure [5] visualize a <ins>weak</ins> correlation between `humidi
  
 <p align="center"><img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Cities%20Location.png" width="800"></p>
 
-After narrow down the DataFrame to ideal weather condition and finding relative hotel located within 10,000 metres of every city coordinates , new DataFrame result shows in Table[1].
+After narrow down the DataFrame to ideal weather condition, keep humidity ,and finding relative hotel located within 10,000 metres of every city coordinates , new DataFrame result shows in <b>Table[1]</b>. also, <b>Figures [7]</b> shows these detail.
 <h6 align="center">Table [1]: Hotel in Good Condition</h6>
 <p align="center">
 <img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Hotel%20Good%20Condition.png" width="800">
-<img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Hotel%20Location.png" width="800">
 </p>
+<h6 align="center">Fig [7]: Hotel in Good Condition</h6>
+<p align="center">
+<img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/HotelLoc2.png" width="800">
+</p>
+
+<b>Table [2]</b> and <b>Figures [8]</b> show the result after cleaning No hotel found city from DataFrame.
+<h6 align="center">Table [2]: Final List of City and Hotel</h6>
+<p align="center">
+<img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Clean%20Data.png" width="800">
+</p>
+<h6 align="center">Fig [8]: Hotel in Good Condition</h6>
+<p align="center">
 <img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Clean%20Hotel%20Location.png" width="800">
+</p>
 
 ---
 <h3 align=left>References</h3>
