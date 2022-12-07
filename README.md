@@ -28,7 +28,7 @@
    - Create a map that displays a point for every city in the <i>WeatherPy</i> section DataFrame.
    - Narrow down the DataFrame to find your ideal weather condition and make hotel DataFrame.
       - ideal weather condition: <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/1.png" width="30"> `21°C < temperature < 27°C` <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/2.png" width="30"> `Wind speed less than 4.5 m/s` <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/3.png" width="30"> `Zero cloudiness`
-   - Use the [Geoapify API](https://www.geoapify.com/) to find the first hotel located within 10,000 metres of every city coordinates
+   - Use the [Geoapify API](https://www.geoapify.com/) to find the first hotel located within 10,000 metres of every city coordinates.
    - Add the hotel name and the country as additional information for each city in the map.
    
 
@@ -137,13 +137,18 @@ Figure [3] to Figure [5] visualize a <ins>weak</ins> correlation between `humidi
  
  <img src="https://github.com/theidari/python-api-challenge/blob/main/Design/VacationPy.png" width="120">
 
-
-
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Figures [6]</b> exemplify every city in the WeatherPy section Data Frame.
+ <h6 align="center">Fig [6]: City Point</h6>
 
  
-<img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Cities%20Location.png" width="800">
+<p align="center"><img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Cities%20Location.png" width="800"></p>
 
+After narrow down the DataFrame to ideal weather condition and finding relative hotel located within 10,000 metres of every city coordinates , new DataFrame result shows in Table[1].
+<h6 align="center">Table [1]: Hotel in Good Condition</h6>
+<p align="center">
+<img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Hotel%20Good%20Condition.png" width="800">
 <img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Hotel%20Location.png" width="800">
+</p>
 <img src="https://github.com/theidari/python-api-challenge/blob/main/OutputData/Clean%20Hotel%20Location.png" width="800">
 
 ---
