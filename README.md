@@ -12,8 +12,9 @@
 
 
 <h3 align=left> Overview of Project </h3>
-
+<p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It’s true not everyone is as worldly-wise as someone who’s traveled to all four corners. but having an idea about weather conditions and access to finding a good place for a trip on every time is very helpful. In this case Travel companies advertising flights, hotels or resorts can adopt the strategy of segment-targeting an audience experiencing bad weather (such as cold temperatures, Cloudiness, high Wind Speed, etc. conditions). For display or social campaigns, weather targeting works best when coupled with aspirational creative showing sunny tropical vistas to enforce a yearning for warmth and sunshine.
+</p>
 
 
 #### Objective
